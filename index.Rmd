@@ -143,7 +143,7 @@ The data is shown by Autonomous Communities.
 ## Shiny application
 
 The following shiny application is only the first step of this research and the goal 
-is to be available of discovering beaches through their equiptments and properties. 
+is to be available of discovering beaches through their equipments and properties. 
 You will only see the filters for:
 - Occupation level
 - Urbanization level
